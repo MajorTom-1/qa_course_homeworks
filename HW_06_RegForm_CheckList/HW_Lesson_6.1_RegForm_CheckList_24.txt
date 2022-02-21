@@ -53,3 +53,6 @@
 можно два спец. символа подряд 
 маскируется точками 
 нет предупреждения о небезопасном пароле
+
+РЕШЕНИЕ:
+https://docs.google.com/spreadsheets/d/1Gq3ZaaGR_phuCRAWIuk4fNGCaJ-GNKbY06_Xtu8nYtg/edit?usp=sharing
